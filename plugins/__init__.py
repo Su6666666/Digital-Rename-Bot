@@ -20,21 +20,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/Digital_Botz 
-Repo Link : https://github.com/DigitalBotz/Digital-Rename-Bot
-License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICENSE
+Telegram Link : https://t.me/sgbackup 
+Repo Link : https://t.me/sgbackup
+License Link : https://t.me/sgbackup
 """
 
 __name__ = "Digital-Rename-Bot"
 __version__ = "3.1.0"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present Digital Botz <https://github.com/DigitalBotz>"
-__programer__ = "<a href=https://github.com/DigitalBotz/Digital-Rename-Bot>Digital Botz</a>"
+__copyright__ = "Copyright (C) 2022-present Digital Botz <https://t.me/sgbackup>"
+__programer__ = "<a href=https://t.me/sgbackup>Digital Botz</a>"
 __library__ = "<a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>"
 __language__ = "<a href=https://www.python.org/>Pyᴛʜᴏɴ 3</a>"
 __database__ = "<a href=https://cloud.mongodb.com/>Mᴏɴɢᴏ DB</a>"
-__developer__ = "<a href=https://t.me/Digital_Botz>Digital Botz</a>"
-__maindeveloper__ = "<a href=https://t.me/RknDeveloper>RknDeveloper</a>"
+__developer__ = "<a href=https://t.me/SubhajitGhosh0>Subhajit Ghosh</a>"
+__maindeveloper__ = "<a href=https://t.me/SGBACKUP>SGBACKUP</a>"
 
 # main copyright herders (©️)
 # I have been working on this repo since 2022
