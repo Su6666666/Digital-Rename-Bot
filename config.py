@@ -7,7 +7,7 @@
 # Update Channel @Digital_Botz & @DigitalBotz_Support
 """
 Apache License 2.0
-Copyright (c) 2022 @Digital_Botz
+Copyright (c) 2022 @SGBACKUP
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,8 +24,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/Digital_Botz 
-Repo Link : https://github.com/DigitalBotz/Digital-Rename-Bot
+Telegram Link : https://t.me/SGBACKUP 
+Repo Link : https://t.me/SGBACKUP
 License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICENSE
 """
 
@@ -55,8 +55,8 @@ class Config(object):
     FREE_UPLOAD_LIMIT = 6442450944 # calculation 6*1024*1024*1024=results
 
     # premium mode feature ✅
-    UPLOAD_LIMIT_MODE = True 
-    PREMIUM_MODE = True 
+    UPLOAD_LIMIT_MODE = False 
+    PREMIUM_MODE = False 
     
     #force subs
     try:
