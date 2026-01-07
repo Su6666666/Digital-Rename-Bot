@@ -43,7 +43,7 @@ class Config(object):
     STRING_SESSION = os.environ.get("STRING_SESSION", "")
     
     # database config
-    DB_NAME = os.environ.get("DB_NAME","AiFileRenameBot")     
+    DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
     DB_URL = os.environ.get("DB_URL","mongodb+srv://SGBACKUP6:SGBACKUP@cluster0.jjccnqr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
