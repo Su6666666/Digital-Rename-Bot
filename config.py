@@ -44,7 +44,7 @@ class Config(object):
     
     # database config
     DB_NAME = os.environ.get("DB_NAME","Digital_Rename_Bot")     
-    DB_URL = os.environ.get("DB_URL","mongodb+srv://SGBACKUP6:SGBACKUP@cluster0.jjccnqr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+    DB_URL = os.environ.get("DB_URL","mongodb+srv://SGBACKUP16:SGBACKUP@cluster0.jlrmk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
     # other configs
     RKN_PIC = os.environ.get("RKN_PIC", "https://telegra.ph/file/b746aadfe59959eb76f59.jpg")
