@@ -8,7 +8,7 @@
 
 """
 Apache License 2.0
-Copyright (c) 2022 @Digital_Botz
+Copyright (c) 2022 @SGBACKUP
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,8 +25,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/Digital_Botz 
-Repo Link : https://github.com/DigitalBotz/Digital-Rename-Bot
+Telegram Link : https://t.me/SGBACKUP 
+Repo Link : https://t.me/SGBACKUP
 License Link : https://github.com/DigitalBotz/Digital-Rename-Bot/blob/main/LICENSE
 """
 
@@ -57,7 +57,7 @@ class Database:
             uploadlimit=Config.FREE_UPLOAD_LIMIT,
             daily=0,
             metadata_mode=False,
-            metadata_code="--change-title @Rkn_Botz\n--change-video-title @Rkn_Botz\n--change-audio-title @Rkn_Botz\n--change-subtitle-title @Rkn_Botz\n--change-author @Rkn_Botz",
+            metadata_code="--change-title @SGBACKUP\n--change-video-title @SGBACKUP\n--change-audio-title @SGBACKUP\n--change-subtitle-title @SGBACKUP\n--change-author @SGBACKUP",
             expiry_time=None,
             has_free_trial=False,
             ban_status=dict(
